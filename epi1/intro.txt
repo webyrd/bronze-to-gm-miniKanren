@@ -1,0 +1,47 @@
+From Bronze to GM in miniKanren!
+
+Why?:
+* share what I have learned (and share what I would like to figure out)
+* people have asked me to make more videos on programming and programming languages and research and all that
+* an audience similar to that for `The Theoretical Minimum` exists for academic PL, Scheme, miniKanren, etc.
+* fun
+
+Inspirations/influences:
+* apprenticeship in PL
+* Bronze to GM series on YouTube (dApollo, filtersc, Vibe, etc.)
+* `The Theoretical Minimum` series of books, videos, courses
+* ``hangout movies''/comfort food movies/``healing'' VTubers
+
+What are we going to cover?
+
+** how I think about these things, skills and techniques I've aquired,
+   point of view, taste, etc., and what I think is important/critical
+   to know/be able to do **
+
+* Scheme
+** where Scheme is strong, and why people who learn Scheme in undergrad often don't get the point
+** evaluation of Scheme
+** interpreters and environments and all that
+** metaprogramming
+** macros
+** DSL design and implementation
+* miniKanren
+** the base language
+** extended language with constraints
+** simple example programs
+** evaluation rules and semantics
+** relational interpreters, parsers, type inferences
+** different versions of miniKanren
+** various constraint systems and extensions
+** implementation
+* how *I* think about Scheme and miniKanren
+* resources for Scheme and miniKanren
+* excersizes for Scheme and miniKanren
+* research
+** reading research papers
+** implementing research papers
+** assessing research papers
+** exploring and implementing and assessing ideas
+** communicating the results
+** thinking about limitations, challenges, and opportunities for relational programming
+** trying to make progress to drive relational programming further
