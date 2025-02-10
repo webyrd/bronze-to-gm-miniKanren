@@ -1,5 +1,7 @@
 From Bronze to GM in miniKanren!
 
+Episode 1 (https://www.youtube.com/watch?v=ZN6DvPAFfYk)
+
 ** We are going to learn miniKanren, and how to think about miniKanren, from a *research perspective* **
 
 Heavily influenced by how the StarCraft 2 community learns and teaches
