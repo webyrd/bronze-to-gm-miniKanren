@@ -1,0 +1,178 @@
+From Bronze to GM in miniKanren!
+
+Episode 3 (https://www.youtube.com/watch?v=3hujoFPhprQ)
+
+``More gg, more skill.'' --WhiteRa
+
+Laddering practice:
+
+1. read at least 3 abstracts from each of HOPL I, HOPL II, HOPL III,
+and HOPL IV
+
+2. read the full paper for the most interesting or unusual abstract you read from HOPL I--IV
+
+3. read the R5RS Scheme report (you can skim or skip the denotational semantics)
+
+We begin by revisiting quotations from last time, and giving pointers to interesting books, papers, reports, etc.
+
+To install the Unix `fortune` command on macOS:
+
+```
+brew install fortune
+```
+
+```
+webyrd@Williams-MacBook-Pro ~ % fortune
+The test of a first-rate intelligence is the ability to hold two opposed
+ideas in the mind at the same time and still retain the ability to function.
+		-- F. Scott Fitzgerald
+```
+
+
+
+Links:
+
+Tom DeMarco books
+(especially `Peopleware` with Timothy Lister and `Slack`)
+https://www.tomdemarco.com/
+
+Why Does Software Cost So Much? (And Other Puzzles of the Information Age)
+by Tom DeMarco, 1995
+http://www.dorsethouse.com/books/wds.html
+
+Richard Hamming
+https://en.wikipedia.org/wiki/Richard_Hamming
+
+Richard Hamming's `You And Your Research` and other links on Gwern's site
+https://gwern.net/doc/science/1986-hamming
+
+The Art of Doing Science and Engineering
+Richard W. Hamming
+https://press.stripe.com/the-art-of-doing-science-and-engineering
+
+The Dream Machine
+M. Mitchell Waldrop 
+https://press.stripe.com/the-dream-machine
+
+Bret Victor's website
+(especially Inventing on Principle, Dynamicland)
+https://worrydream.com/
+
+fortune
+https://en.wikipedia.org/wiki/Fortune_(Unix)
+
+Autobiographies of Isaac Asimov
+https://en.wikipedia.org/wiki/Autobiographies_of_Isaac_Asimov
+
+Astounding
+John W. Campbell, Isaac Asimov, Robert A. Heinlein, L. Ron Hubbard, and the Golden Age of Science Fiction
+By Alec Nevala-Lee
+https://www.harpercollins.com/products/astounding-alec-nevala-lee?variant=32117235417122
+
+Understanding Media: The Extensions of Man
+Marshall Mcluhan, Lewis H. Lapham (Introduction by) 
+https://mitpressbookstore.mit.edu/book/9780262631594
+
+Epigrams in Programming (1982)
+Alan J. Perlis
+https://www.cs.yale.edu/homes/perlis-alan/quotes.html
+
+Philip Zucker's blog
+http://www.philipzucker.com/
+
+Symbolic Execution by Overloading `__bool__`
+blog post by Philip Zucker
+http://www.philipzucker.com/overload_bool/
+
+LISP 1.5 Programmer's Manual
+(esp. meta-circular LISP interpreter on the bottom of page 13, with `eval` and `apply`)
+https://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf
+
+History of LISP
+John McCarthy, 1978 (part of HOPL I)
+https://dl.acm.org/doi/10.1145/800025.1198360
+
+The Evolution of Lisp (uncut version of HOPL-II paper)
+Guy L. Steele Jr. and Richard P. Gabriel, 1993
+https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf
+
+MIT AI Memos (1959 - 2004)
+https://dspace.mit.edu/handle/1721.1/5460
+
+The Original 'Lambda Papers' by Guy Steele and Gerald Sussman
+https://research.scheme.org/lambda-papers/
+
+schemedoc/bibliography on GitHub
+https://github.com/schemedoc/bibliography
+
+library.readscheme.org on GitHub
+https://github.com/scheme-and-computer-science/library.readscheme.org/tree/master?tab=readme-ov-file
+
+Structure and Interpretation of Computer Programs
+https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
+
+Structure and Interpretation of Computer Programs
+JavaScript Edition
+https://mitpress.ublish.com/book/structure-and-interpretation-of-computer-programs-javascript-edition
+
+The Little Schemer, fourth edition
+https://mitpressbookstore.mit.edu/book/9780262560993
+
+The Seasoned Schemer (Second Edition)
+https://direct.mit.edu/books/monograph/2855/The-Seasoned-Schemer
+
+The Reasoned Schemer, second edition
+(wow, I'm a co-author!)
+https://mitpressbookstore.mit.edu/book/9780262535519
+
+The Reasoned Schemer, first edition
+(wow, I'm a co-author!)
+https://direct.mit.edu/books/monograph/3873/The-Reasoned-Schemer
+
+History of Programming Languages (conference)
+https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)
+
+A History of the History of Programming Languages
+Thomas J. (Tim) Bergin
+https://cacm.acm.org/news/a-history-of-the-history-of-programming-languages/
+
+HOPL I: History of programming languages, June 1978
+https://dl.acm.org/doi/book/10.1145/800025
+
+HOPL-II: The second ACM SIGPLAN conference on History of programming languages, 1993
+https://dl.acm.org/doi/proceedings/10.1145/154766
+
+HOPL III: Proceedings of the third ACM SIGPLAN conference on History of programming languages, 2007
+https://dl.acm.org/doi/proceedings/10.1145/1238844
+
+HOPL-IV: The Fourth ACM SIGPLAN History of Programming Languages Conference, 2021
+https://dl.acm.org/do/10.1145/event-12215/abs/
+
+The Revised^5 Report on the Algorithmic Language Scheme (R5RS)
+https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/
+
+The Revised^6 Report on the Algorithmic Language Scheme (R6RS)
+https://www.r6rs.org/
+
+Revised^7 Report on the Algorithmic Language Scheme (R7RS)
+https://r7rs.org/
+
+IEEE Standard for the Scheme Programming Language (IEEE 1178-1990)
+https://standards.ieee.org/ieee/1178/1787/
+
+Scheme Requests for Implementation (SRFIs)
+https://srfi.schemers.org/
+
+Chez Scheme
+https://cisco.github.io/ChezScheme/
+
+Homebrew formula for Chez Scheme
+https://formulae.brew.sh/formula/chezscheme
+
+The Scheme Programming Language,Fourth Edition
+R. Kent Dybvig
+Illustrations by Jean-Pierre Hébert
+https://scheme.com/tspl4/
+
+Chez Scheme Version 10 User's Guide
+https://cisco.github.io/ChezScheme/csug/csug.html
