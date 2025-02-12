@@ -1,6 +1,6 @@
 From Bronze to GM in miniKanren!
 
-Episode 4 ()
+Episode 4 (https://www.youtube.com/watch?v=8LUFlYxoeSU)
 
 (I removed a few seconds of video where I showed the Atari 2600 in the 8-bit Workshop, since the emulator was showing flashing lights.)
 
