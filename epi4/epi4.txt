@@ -1,0 +1,125 @@
+From Bronze to GM in miniKanren!
+
+Episode 4 ()
+
+(I removed a few seconds of video where I showed the Atari 2600 in the 8-bit Workshop, since the emulator was showing flashing lights.)
+
+Thank you for the comments in YouTube and in Discord
+
+``More gg, more skill.'' --WhiteRa
+
+"I don't get mad when I lose." --SpeCiaL
+
+Cannon rush to GM!
+
+Cheezing our way to POPL!
+
+Forever Bronze
+
+when you are learning a new strategy or technique, and first applying it in the wild, you may end up losing a lot
+
+!! precision of language
+`if` statement vs. `if` expression
+
+Chobo vs. Gosu
+Gosu x2 (Day[9])
+
+Don't want to rage quit
+
+Remember WhiteRa:
+``More gg, more skill.'' --WhiteRa
+
+Day[9]'s mini-game theory of StarCraft, and its application to programming
+worker rush
+face climbing vs. crack climbing
+regex and state machines
+  knowing a technique exists
+  !! recognizing the technique is applicable to the problem you are solving
+  knowing how to use/apply the technique
+  !! knowing when the technique is not applicable, and knowing alternative techniques
+chess experts and pattern recognition
+realizing what you are good at, what you aren't good at, and trying to shift the one to another
+
+Laddering practice
+
+!! learning at least one language *extremely* well
+
+!! core competency: look at code and know what it will do -- Michael Ballantyne
+
+!! constant practice of predicting behavior
+
+!! looking up behavior in the language spec, and writing little programs to test your understanding and the edge cases
+
+R6RS Scheme Report Training Arc
+(The Most Boring Videos Ever Made series)
+https://www.youtube.com/watch?v=B00SVJou1cU&list=PLO4TbomOdn2dCIlHxdwTkXI6o6FZrr93U
+
+!! research notebook
+
+!! "always make time for thinking" -- anon?
+
+Scheme and Functional Programming Workshop
+https://www.schemeworkshop.org/
+
+Ladder practice:
+
+* start a research notebook (paper or on computer) for programming languages research, questions, ideas, experiments, etc.
+
+* make time to think, with your notebook
+
+* read at least 3 abstracts for papers, each, from 3 different years of the Scheme and Functional Programming Workshop, preferably from different years/decades
+
+* pick one of those papers and read it, or at least skim it
+
+
+Next time:
+
+"Don't turn it on.  Take it apart!" -- Dave Jones, EEV blog on YouTube
+
+integers in Scheme
+vs. integers in Java
+
+computer organization
+
+comparison, tradeoffs, design decisions, etc.
+
+"It depends." -- Andy Keep
+
+"It's all tradeoffs." -- Joe Armstrong
+
+"Scheme is the language of least restriction." -- Aziz Ghuloum
+
+"You use Scheme for solving *hard* problems." -- Aziz Ghuloum
+
+
+Links:
+
+R6RS Scheme Report Training Arc, Part 1 and play list:
+https://www.youtube.com/watch?v=B00SVJou1cU&list=PLO4TbomOdn2dCIlHxdwTkXI6o6FZrr93U&index=1
+
+Scheme and Functional Programming Workshop main website:
+https://www.schemeworkshop.org/
+
+Nand to Tetris courses
+https://www.nand2tetris.org/
+
+The Elements of Computing Systems, second edition: Building a Modern Computer from First Principles
+https://mitpressbookstore.mit.edu/book/9780262539807
+
+Code: The Hidden Language of Computer Hardware and Software, 2nd Edition
+https://www.microsoftpressstore.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100
+
+Interactive Illustrations from `Code`:
+https://codehiddenlanguage.com/
+
+8-bit Workshop
+https://8bitworkshop.com/
+
+8-bit Workshop books
+https://8bitworkshop.com/docs/books/
+
+Usborne 1980s Computer Books
+https://usborne.com/us/books/computer-and-coding-books
+
+Usborne Introduction to Machine Code for Beginners:
+https://drive.google.com/file/d/0Bxv0SsvibDMTcHNXalEtYkVtU00/view?resourcekey=0-YtCcUG7ytBL-ls8gciJ7ig
