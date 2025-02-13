@@ -1,0 +1,55 @@
+From Bronze to GM in miniKanren!
+
+Episode 5 ()
+
+My objectives for making this series
+
+"But, Will, why aren't you just talking about Scheme and miniKanren programming?"
+
+turning pro in gaming
+
+What you *don't* find in books, even books for the "outside" audience
+
+face climbing vs. crack climbing analogy
+
+numbers and being a serious contender
+
+"What one fool can do, so can another."  Richard P. Feynman
+
+Links:
+
+The Theoretical Minimum
+https://en.wikipedia.org/wiki/The_Theoretical_Minimum
+
+A PhD Is Not Enough!
+https://www.hachettebookgroup.com/titles/peter-j-feibelman/a-phd-is-not-enough/9780465025336/?lens=basic-books
+
+American Visionary Art Museum
+https://www.avam.org/
+
+SIGPLAN Conferences
+https://sigplan.org/Conferences/
+
+PLMW @ POPL 2025
+https://popl25.sigplan.org/home/PLMW-POPL-2025
+
+How to Write a Great Research Paper
+https://simon.peytonjones.org/great-research-paper/
+
+How to Give a Great Research Talk
+https://simon.peytonjones.org/great-research-talk/
+
+How to Write a Lot
+https://www.apa.org/pubs/books/4441031
+
+Professors as Writers
+https://newforums.com/our-titles/successful-faculty-development/scholarly-writing-publishing/professors-as-writers/
+
+SIGPLAN Mentoring Initiatives
+https://sigplan.org/Mentoring/
+
+Oregon Programming Languages Summer School (OPLSS)
+https://www.cs.uoregon.edu/research/summerschool/
+
+OPLSS YouTube channel
+https://www.youtube.com/@OPLSS
