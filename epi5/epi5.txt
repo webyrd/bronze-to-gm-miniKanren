@@ -1,6 +1,6 @@
 From Bronze to GM in miniKanren!
 
-Episode 5 ()
+Episode 5 (https://www.youtube.com/watch?v=QuiVdy5vKbs)
 
 My objectives for making this series
 
@@ -15,6 +15,19 @@ face climbing vs. crack climbing analogy
 numbers and being a serious contender
 
 "What one fool can do, so can another."  Richard P. Feynman
+
+
+
+Ladder practice: watch these talks
+
+How to Write a Great Research Paper
+https://simon.peytonjones.org/great-research-paper/
+
+How to Give a Great Research Talk
+https://simon.peytonjones.org/great-research-talk/
+
+
+
 
 Links:
 
