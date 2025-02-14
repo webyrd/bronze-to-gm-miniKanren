@@ -1,6 +1,6 @@
 From Bronze to GM in miniKanren!
 
-Episode 6
+Episode 6 (https://www.youtube.com/watch?v=EBfDUG8SiFQ)
 
 Previous ladder practice: watch these talks
 
