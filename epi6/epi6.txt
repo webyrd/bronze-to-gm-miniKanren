@@ -1,0 +1,102 @@
+From Bronze to GM in miniKanren!
+
+Episode 6
+
+Previous ladder practice: watch these talks
+
+How to Write a Great Research Paper
+https://simon.peytonjones.org/great-research-paper/
+
+How to Give a Great Research Talk
+https://simon.peytonjones.org/great-research-talk/
+
+
+
+More crack climbing analogy
+
+"Hey, Will!  I want to go climbing with you!"
+
+"Hey, Will!  I want to do research with you!"
+
+
+
+"Here is a paper describing my new programming language!  What do you think?"
+
+Oops, you accidentally a ...
+
+Oops, you accidentally a well-known feature from 40 years ago.
+
+Oops, you accidentally a well-known broken feature from 40 years ago.
+
+Oops, you accidentally a Turing-complete configuration language.
+
+Oops, you accidentally a language with dynamic scope.
+
+Oops, you accidentally an unsound typesystem.
+
+Oops, you accidentally a typesystem with undecidable type inference.
+
+Oops, you accidentally a bunch of core language features that don't compose.
+
+Oops, you accidentally a constraint with doubly-exponential time complexity.
+
+Oops, you accidentally a macro system with hygiene problems.
+
+Oops, you accidentally an implementation technique that requires copying the entire heap after every operation.
+
+
+
+"Don't turn it on.  Take it apart!" -- Dave Jones, EEV blog on YouTube
+
+integers, addition, and naming
+Scheme and Java
+
+computer organization
+
+comparison, tradeoffs, design decisions, etc.
+
+"It depends." -- Andy Keep
+
+"It's all tradeoffs." -- Joe Armstrong
+
+"Scheme is the language of least restriction." -- Aziz Ghuloum
+
+
+
+Ladder practice:
+
+* learn your powers of 2 up to some credible number (at least to 2^10), and keep in mind that:
+
+** 2^10 is approximately 10^3
+** 2^20 is approximately 10^6
+** 2^30 is approximately 10^9
+
+* read up on signed and unsigned two's complement integer representations, if you are not familiar already (32-bit signed two's complement integer, for example)
+
+* read about the Ariane 5 rocket mishap due to overflow, and also the Patriot missile battery overflow errors
+
+* think about the differences in the design on Scheme and Java when it comes to integers, overflow, etc.
+
+
+Links:
+
+Eight Signs A Claimed P≠NP Proof Is Wrong
+https://scottaaronson.blog/?p=458
+
+Java Hello World Program
+https://www.geeksforgeeks.org/java-hello-world-program/
+
+Java.lang.Integer class in Java
+https://www.geeksforgeeks.org/java-lang-integer-class-java/
+
+BigInteger Class in Java
+https://www.geeksforgeeks.org/biginteger-class-in-java/
+
+TSPL4
+Operations on objects
+https://scheme.com/tspl4/objects.html#./objects:s88
+
+CSUG
+Section 8.7. Miscellaneous Numeric Operations
+https://cisco.github.io/ChezScheme/csug/numeric.html#./numeric:s76
+
