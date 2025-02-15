@@ -1,0 +1,58 @@
+From Bronze to GM in miniKanren!
+
+Episode 7 ()
+
+I read the news a little too much today...
+
+laddered tonight
+
+ViBE: micro vs. macro
+
+"undergrad" thinking vs. "grad school" thinking
+
+research practices, and research thinking, from the beginning
+
+mental/emotional resiliance
+
+Richard Fortey (in `Trilobite!: Eyewitness to Evolution`, if I recall correctly) -- researcher who studied a specific subspecies of insect for 40+ years
+
+G.R.R.M. story about book signing
+
+little bits of encouragement can go a long way
+
+Clojure community and miniKanren
+
+first thing to add to our ladder practice for today
+
+community and mentoring
+
+
+core Scheme:
+quote, symbols, pairs, lists
+
+
+Previous ladder practice: 
+
+* learn your powers of 2 up to some credible number (at least to 2^10), and keep in mind that:
+
+** 2^10 is approximately 10^3
+** 2^20 is approximately 10^6
+** 2^30 is approximately 10^9
+
+* read up on signed and unsigned two's complement integer representations, if you are not familiar already (32-bit signed two's complement integer, for example)
+
+* read about the Ariane 5 rocket mishap due to overflow, and also the Patriot missile battery overflow errors
+
+* think about the differences in the design on Scheme and Java when it comes to integers, overflow, etc.
+
+
+
+Ladder practice:
+
+* let someone whose work you admire or has inspired you know -- please give specifics
+
+* practice consing up list and pair structures, drawing box-and-pointer diagrams, predicting where the REPL will print dots for improper lists, etc.
+
+* read up on lists, pairs, and proper/improper lists in TSPL4
+
+* read at least one Scheme paper
