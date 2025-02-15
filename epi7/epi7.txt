@@ -1,6 +1,10 @@
 From Bronze to GM in miniKanren!
 
-Episode 7 ()
+Episode 7 (https://www.youtube.com/watch?v=SEhcC-zvJ68)
+
+mental fortitude and cons pairs
+
+(Oh yeah, it's 2025, not 2024!  I was a bit out of it...)
 
 I read the news a little too much today...
 
