@@ -1,6 +1,6 @@
 From Bronze to GM in miniKanren!
 
-Episode 8
+Episode 8 (https://www.youtube.com/watch?v=WCxRJ74CdYk)
 
 feeling better today
 
