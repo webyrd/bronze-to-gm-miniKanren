@@ -1,6 +1,9 @@
 From Bronze to GM in miniKanren!
 
-Episode 9
+Episode 9 (https://www.youtube.com/watch?v=6Zv8ETixbnk)
+
+quasiquote and GOFAI
+
 
 Previous ladder practice:
 
