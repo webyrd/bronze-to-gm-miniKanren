@@ -1,0 +1,122 @@
+From Bronze to GM in miniKanren!
+
+Episode 10
+
+Previous ladder practice:
+
+* micro:
+read the TSPL4 sections on:
+  quote
+  quasiquote
+  unquote
+  unquote-splicing
+and play around with these in the REPL until you can do it!
+
+* macro:
+read about one or more of:
+  Advice Taker
+  AM
+  Eurisko
+  Cyc
+  TMS
+  Propagators
+
+'Out of Touch' Thursdays
+laddering to help get out of my own head
+flow state -- same as when I'm engrossed in hacking miniKanren or Scheme
+"Fortunately I've been adhering to a strict StarCraft laddering regimine to keep my mind limber." --Will, paraphrasing The Dude
+
+ViBE worried about sounding like a broken record in b2gm
+"the efficiency never stops"
+
+a couple of conversations last week with people asking for advice about how to learn on your own, and how to deal with the uncertainty of the life of the researcher
+
+The life of a researcher
+David Lynch:  "I have no idea what I'm doing.  I'm so depressed."
+my experience and struggles going away to college for the first time
+StarCraft and Angband and Tetris -- I use them for different purposes
+getting out of your head: StarCraft, lead climbing, helping someone
+finding a small supportive group
+Can learn a lot from artists, filmmakers, writers, musicians, dancers, etc.
+For giving talks, can learn a lot from stand up comedians
+Use everything: my background in special education
+
+* how do people learn, especially complex skills?
+* how do people make things that people absolutely love?
+
+The Creative Habit: Learn It and Use It for Life -- Twyla Tharp
+The War of Art -- Steven Pressfield
+  reminds me of Roger Ebert: "It's not a film, it's a franchise."
+Film Courage YouTube Channel, esp. Dr. Ken Atchity
+Blood, Sweat & Chrome: The Wild and True Story of Mad Max: Fury Road -- Kyle Buchanan
+Werner Herzog's Rogue Film School
+
+Werner Herzog on 'The Peregrine':
+"It's the accountant's truth you're after. You get a straight A, you idiot!"
+"Yes, go become an accountant. That's where you should be."
+"The ornithologist should be denied to read this book."
+https://www.youtube.com/watch?v=n4b7vBWwbuo  @28:00
+
+Quentin Tarantino and Terry Gilliam on Having A Vision
+https://www.youtube.com/watch?v=9_8tpH0bnZs
+
+* the power of having a vision, and being able to communicate it clearly
+* the power of having an artifact
+
+
+Quasiquote
+
+
+Ladder practice:
+
+* micro:
+
+go through the quote and quasiquote sections in TSPL4:
+https://www.scheme.com/tspl4/objects.html#./objects:s5
+
+and read the sections on quote and quasiquote in R6RS:
+https://www.r6rs.org/
+
+and try out the examples in Chez Scheme
+
+optional: try out the examples in Racket--how does the behavior differ, if at all?
+
+read Quasiquotation in Lisp -- Alan Bawden
+https://oneofus.la/have-emacs-will-hack/files/bawden.pdf
+
+* macro:
+- read or watch one or more of the above books or talks about the creative life and making things, or do so for some other resource
+
+
+
+Links:
+
+The Creative Habit -- Twyla Tharp
+https://www.simonandschuster.com/books/The-Creative-Habit/Twyla-Tharp/9780743235273
+
+The War of Art
+https://stevenpressfield.com/books/the-war-of-art/
+
+Film Courage
+https://www.youtube.com/@filmcourage
+
+Film Courage interview series with Dr. Ken Atchity
+https://www.youtube.com/watch?v=y7yr-za_Meo&list=PLez8jOvskc-PlZAo7ag9wp3S4arNJMJot
+
+Blood, Sweat & Chrome  The Wild and True Story of Mad Max: Fury Road
+https://www.harpercollins.com/products/blood-sweat-chrome-kyle-buchanan?variant=39314534629410
+
+Werner Herzog's Rogue Film School
+http://roguefilmschool.com/about.asp
+
+Werner Herzog on 'The Peregrine'
+https://www.youtube.com/watch?v=n4b7vBWwbuo  @28:00
+
+Werner Herzog on why he makes films
+https://www.youtube.com/watch?v=PxfYDUVnHg4 
+
+Quentin Tarantino and Terry Gilliam on Having A Vision 
+https://www.youtube.com/watch?v=9_8tpH0bnZs
+
+Quasiquotation in Lisp -- Alan Bawden
+https://oneofus.la/have-emacs-will-hack/files/bawden.pdf
