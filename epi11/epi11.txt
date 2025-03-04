@@ -40,7 +40,7 @@ Ladder practice:
 
 The end of 4.2.6 of R5RS contains the sentence: "Unpredictable behavior can result if any of the symbols 'quasiquote', 'unquote', or 'unquote-splicing' appear in positions within a 〈qq template〉 otherwise than as described above."
 
-Your challenge, should you chose to accept it, is to figure out *why* this wording doesn't seem to appear in the R6RS or the R7RS Small.  Do these newer reports contain similar warnings?  If so, how has the language changed?  If there is no warning, is this because the unpredictable behavior must now be checked by the implementation?  If so, how is a violation handled?  Try to figure out what is going on!
+Your challenge, should you choose to accept it, is to figure out *why* this wording doesn't seem to appear in the R6RS or the R7RS Small.  Do these newer reports contain similar warnings?  If so, how has the language changed?  If there is no warning, is this because the unpredictable behavior must now be checked by the implementation?  If so, how is a violation handled?  Try to figure out what is going on!
 
 * macro:
 
