@@ -1,0 +1,101 @@
+From Bronze to GM in miniKanren!
+
+Episode 12
+
+design vs. research
+
+Jacob Bronowski -- poetry and mathematics
+
+classic Fogus post:
+
+10 Technical Papers Every Programmer Should Read (At Least Twice) -- Fogus
+https://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice.html
+
+
+Previous ladder practice:
+
+* micro:
+
+The end of 4.2.6 of R5RS contains the sentence: "Unpredictable behavior can result if any of the symbols 'quasiquote', 'unquote', or 'unquote-splicing' appear in positions within a 〈qq template〉 otherwise than as described above."
+
+Your challenge, should you choose to accept it, is to figure out *why* this wording doesn't seem to appear in the R6RS or the R7RS Small.  Do these newer reports contain similar warnings?  If so, how has the language changed?  If there is no warning, is this because the unpredictable behavior must now be checked by the implementation?  If so, how is a violation handled?  Try to figure out what is going on!
+
+* macro:
+
+Read one of the classic 'Lambda the Ultimate' Scheme papers from Sussman and Steele.
+
+
+`quasiquote` as hotkeys analogy, or perhaps as spreading creep
+
+Piano game on Monty Hall on ArtosisCasts -- micro trick with rax and vulture to jump over mineral wall; great example of what it means to "be able to do it", and also a great example of a mini-game, just like there is a quote/quasiquote mini-game in Scheme
+
+let's use the more restrictive version of `quasiquote`/`unquote`/`unquote-splicing`
+
+creating structures in a way that is quick and easy to do accurately, and is easy to read; pattern matching; meta-programming
+
+Scheme quasiquote history/evolution
+
+csug
+r4rs
+r3rs
+r2rs
+r1rs
+original Scheme report
+
+readscheme papers on quasiquote?
+
+quasiquote impl:
+Aziz's tutorial?
+Essentials of Compilation?
+Chez code
+
+BCS 3Lisp -- does that have quasiquote?
+
+
+Ladder practice:
+
+* micro:
+
+practice consing up list and pair and tree structures, and practice your quasiquote and unquote and unquote-splicing; come up with your own examples
+
+* macro:
+
+read R5RS!  and think about what's missing in the conbtext of a modern programming language "in the large"
+
+
+
+Links:
+
+10 Technical Papers Every Programmer Should Read (At Least Twice) -- Fogus
+https://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice.html
+
+Great Works in Programming Languages
+Collected by Benjamin C. Pierce
+https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml
+
+Classic Papers in Programming Languages -- a meta-list
+https://www.pls-lab.org/en/Classic_Papers_in_PL
+
+Jacob Bronowski
+https://en.wikipedia.org/wiki/Jacob_Bronowski
+
+Chez Scheme Version 10 User's Guide
+https://cisco.github.io/ChezScheme/csug/csug.html
+
+Scheme standards
+https://standards.scheme.org/
+
+Scheme bibliography
+https://github.com/schemedoc/bibliography
+
+Nada Amin's repo based on Aziz Ghuloum's Scheme compiler paper and tutorial
+https://github.com/namin/inc
+
+Essentials of Compilation by Jeremy Siek
+https://mitpress.mit.edu/9780262047760/essentials-of-compilation/
+
+IU compilers course
+https://github.com/IUCompilerCourse
+
+Essentials of Compilation repo
+https://github.com/IUCompilerCourse/Essentials-of-Compilation
