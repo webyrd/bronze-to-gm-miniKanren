@@ -1,0 +1,130 @@
+From Bronze to GM in miniKanren!
+
+Episode 13
+
+'Out of Touch' Thursday
+Speaking as a private citizen
+Keep Calm and Carry On
+ViBE version of it
+courage, cheerfulness, resolution
+
+Revisit some remarks I made about low-hanging fruit vs. having a vision
+Dan Luu's `What to learn` post
+Feynman's "How to appear like a genius"
+Day[9] on what makes a great SC player
+X-Files: Monster of the Week vs. Grand Conspiracy
+
+
+quasiquote stuff
+
+Cons quote and quasiquote behavioral differences and possibilities
+  interesting design space, just with `cons` and `quote`
+Cons should not evaluate its arguments 
+Cons should not cons its arguments
+"Cons should not X its arguments", for some X
+frons and ferns
+Hash consing
+3-lisp and quotation
+
+also:
+Immutable pairs
+Infinite rational terms
+Skip lists
+type system
+Similar to different notions of variables
+
+
+Enough big picture for now--time to learn more Scheme
+
+Where we are headed: meta-circular Scheme interpreter
+
+What we need to know to get there
+
+`lambda` / procedures
+Booleans and truth
+conditionals - `if`, `cond`
+type predicates - `pair?`, `null?`, `list?`, `number?`
+a few other misc. built-in procedures: `+`, `*`, `zero?`
+recursion & recursive procedures
+environments and variable binding and shadowing
+pattern matching
+evaluation rules for Scheme
+
+Scheme evaluator written in Scheme
+closures
+
+program transformations
+defunctionalization and high-order representations
+
+C311/B521 PL courses
+
+
+after that -- logic programming/relational programming/miniKanren
+
+explore:
+ macros & hygiene
+ lambda calculus
+
+next time: conditionals and truth values
+
+
+
+Previous ladder practice:
+
+* micro:
+
+practice consing up list and pair and tree structures, and practice your quasiquote and unquote and unquote-splicing; come up with your own examples
+
+* macro:
+
+read R5RS!  and think about what's missing in the conbtext of a modern programming language "in the large"
+
+
+
+Ladder practice:
+
+* micro:
+
+practice consing up list and pair and tree structures, and practice your quasiquote and unquote and unquote-splicing; come up with your own examples
+
+* macro:
+
+Look at history of Lisp paper, esp. in relation to backquote and quote.
+
+Please read Chapter 14 of my dissertation on `frons` and ferns:
+
+https://github.com/webyrd/dissertation-single-spaced
+https://github.com/webyrd/dissertation-single-spaced/blob/master/thesis.pdf
+
+Think about the difference between Scheme's regular `cons` and pair and lists and `frons` and ferns, at the level of language design and problem spaces and tradeoffs.
+
+
+Links:
+
+https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On
+
+https://danluu.com/learn-what/
+
+https://web.archive.org/web/20191008154808/http://community.schemewiki.org/?scheme-faq-language#H-jzi3c0
+
+https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf
+
+https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR44
+
+https://www.cs.tufts.edu/~nr/cs257/archive/henry-baker/cons-lazy-alloc.pdf
+
+https://dl.acm.org/doi/pdf/10.1145/214448.214454
+
+https://www.youtube.com/watch?v=IHP7P_HlcBk
+
+https://help.luddy.indiana.edu/techreports/TRNNN.cgi?trnum=TR106
+
+https://github.com/webyrd/dissertation-single-spaced
+
+https://en.wikipedia.org/wiki/Hash_consing
+
+https://github.com/nikitadanilov/3-lisp
+
+https://dspace.mit.edu/handle/1721.1/15961
+
+https://www.lispmachine.net/books/LISP_1.5_Programmers_Manual.pdf
