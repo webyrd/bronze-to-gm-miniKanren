@@ -1,0 +1,95 @@
+From Bronze to GM in miniKanren!
+
+Episode 14
+
+book troubles
+b2gm as a book??
+GEB vs. Japanese vending machines & isekai
+
+
+Time to learn more Scheme -- conditionals and truth values
+
+Reminder: where we are headed: meta-circular Scheme interpreter
+
+What we need to know to get there
+
+`lambda` / procedures
+Booleans and truth
+conditionals - `if`, `cond`
+type predicates - `pair?`, `null?`, `list?`, `number?`
+a few other misc. built-in procedures: `+`, `*`, `zero?`
+recursion & recursive procedures
+environments and variable binding and shadowing
+pattern matching
+evaluation rules for Scheme
+
+Scheme evaluator written in Scheme
+closures
+
+program transformations
+defunctionalization and high-order representations
+
+C311/B521 PL courses
+
+
+after that -- logic programming/relational programming/miniKanren
+
+explore:
+ macros & hygiene
+ lambda calculus
+
+
+
+conditionals and truth values
+
+remember Dave Jones from EEV: "Don't turn it on...take it apart!"
+
+expressions and program structure
+
+
+
+Previous ladder practice:
+
+* micro:
+
+practice consing up list and pair and tree structures, and practice your quasiquote and unquote and unquote-splicing; come up with your own examples
+
+* macro:
+
+Look at history of Lisp paper, esp. in relation to backquote and quote.
+
+Please read Chapter 14 of my dissertation on `frons` and ferns:
+
+https://github.com/webyrd/dissertation-single-spaced
+https://github.com/webyrd/dissertation-single-spaced/blob/master/thesis.pdf
+
+Think about the difference between Scheme's regular `cons` and pair and lists and `frons` and ferns, at the level of language design and problem spaces and tradeoffs.
+
+
+
+Ladder practice:
+
+* micro:
+
+Play around with the `if` and `cond` examples in R5RS.
+
+* macro:
+
+Read `4.1.5. Conditionals` and `4.2.1. Conditionals` in R5RS.
+Optional: read the equivalent sections in R7RS Small.
+Optional: read the equivalent sections in R6RS.
+Optional: read the equivalent sections in TSPL4 and in CSUG10.
+Optional: read the ewuivalent sections in the Racket documentation.
+
+
+Links:
+
+https://conservatory.scheme.org/schemers/Documents/Standards/R5RS/
+
+https://www.r6rs.org/
+
+https://r7rs.org/
+
+https://www.scheme.com/tspl4/
+
+https://cisco.github.io/ChezScheme/csug/csug.html
